@@ -7,7 +7,7 @@
 
 [![LinkedIn: jackiespear](https://img.shields.io/badge/LinkedIn-jackiespear-blue?logo=linkedin)](https://www.linkedin.com/in/ackie-spear-a084b97a/)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-jackiespear-000?logo=github&logoColor=white)](https://github.com/jackiespear)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)](https://github.com/jackiespear)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8505--8943-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8505-8943)
 
