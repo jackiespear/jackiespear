@@ -4,10 +4,8 @@
 **jackiespear/jackiespear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![LinkedIn: jackiespear](https://img.shields.io/badge/LinkedIn-jackiespear-blue?logo=linkedin)](https://www.linkedin.com/in/ackie-spear-a084b97a/)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)](https://github.com/jackiespear)
-
+[![LinkedIn: jackiespear](https://img.shields.io/badge/LinkedIn-jackiespear-blue?logo=linkedin)](https://www.linkedin.com/in/jackie-spear-a084b97a/)
+[![GitHub](https://img.shields.io/badge/GitHub-jackiespear-000?logo=github&logoColor=white)](https://github.com/jackiespear)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8505--8943-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8505-8943)
 
 
@@ -20,4 +18,5 @@ Outside my academic work, I have a long history of contributing to high-performa
 While I stepped into the role of Executive Director of Sail Manitoba during the final stages of my PhD, my GitHub projects remain centred on my scientific and technical interests: Data analysis, cognitive modelling, experimental programming. 
 
 🚀 I’m dedicated to advancing rigorous, data-driven work while fostering a culture of excellence.
+
 🌱 Committed to continuous learning and helping others grow through mentorship and collaboration.
