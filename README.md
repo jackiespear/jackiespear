@@ -3,7 +3,6 @@
 <!--
 **jackiespear/jackiespear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Linkedin: jackiespear](https://img.shields.io/badge/-jackiespear-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackiespear-a084b97a/)](https://www.linkedin.com/in/jackiespear-a084b97a/)
 
 [![LinkedIn: jackiespear](https://img.shields.io/badge/LinkedIn-jackiespear-blue?logo=linkedin)](https://www.linkedin.com/in/ackie-spear-a084b97a/)
 
